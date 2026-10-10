@@ -1,7 +1,6 @@
 
 /*
-Program (17) -> Write a program to accept elements of integer, float, and character arrays from the user
-and display the value and corresponding memory address of each array element.
+Program (17) -> Write a program to accept elements of integer, float, and character arrays from the user and display the value and corresponding memory address of each array element.
 
 Solution (1): Pre define values in the program + without any loop + Explicit way to write the program
 */
